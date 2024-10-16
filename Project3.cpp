@@ -69,3 +69,6 @@ int main() {
     cout << "Thank you for playing!" << endl;
     return 0;
 }
+
+// this is just a test. I will do it again before submitting it to professor. 
+// Thank You. 
